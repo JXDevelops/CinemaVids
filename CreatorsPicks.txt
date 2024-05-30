@@ -1,19 +1,19 @@
 [TITLE1]:[Title Text 1]
 [VID1]:[https://video1.com/vid.mp4]
-[IMG]:[https://pic1.com/pic.png]
+[IMG1]:[https://image.tmdb.org/t/p/original/rEXz4EVf8BztJ89x7U2UvJi4yep.jpg]
 
 [TITLE2]:[Title Text 2]
 [VID2]:[https://video2.com/vid.mp4]
-[IMG]:[https://pic2.com/pic.png]
+[IMG2]:[https://i.ebayimg.com/images/g/HsoAAOSw9GRdVgSu/s-l1600.jpg]
 
 [TITLE3]:[Title Text 3]
 [VID3]:[https://video3.com/vid.mp4]
-[IMG]:[https://pic3.com/pic.png]
+[IMG3]:[https://m.media-amazon.com/images/I/71x1RHSaEhL.jpg]
 
 [TITLE4]:[Title Text 4]
 [VID4]:[https://video4.com/vid.mp4]
-[IMG]:[https://pic4.com/pic.png]
+[IMG4]:[https://m.media-amazon.com/images/I/61n-olilSdL._AC_UF894,1000_QL80_.jpg]
 
 [TITLE5]:[Title Text 5]
 [VID5]:[https://video5.com/vid.mp4]
-[IMG]:[https://pic5.com/pic.png]
+[IMG5]:[https://m.media-amazon.com/images/I/818xFyWmm9L._AC_UF894,1000_QL80_.jpg]
