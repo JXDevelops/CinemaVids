@@ -1,0 +1,14 @@
+[VID1]:[https://video1.com]
+[IMG]:[https://pic1.com]
+
+[VID2]:[https://video2.com]
+[IMG]:[https://pic2.com]
+
+[VID3]:[https://video3.com]
+[IMG]:[https://pic3.com]
+
+[VID4]:[https://video4.com]
+[IMG]:[https://pic4.com]
+
+[VID5]:[https://video5.com]
+[IMG]:[https://pic5.com]
