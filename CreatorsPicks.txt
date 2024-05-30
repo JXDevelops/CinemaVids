@@ -1,14 +1,19 @@
+[TITLE1]:[Title Text 1]
 [VID1]:[https://video1.com/vid.mp4]
 [IMG]:[https://pic1.com/pic.png]
 
+[TITLE2]:[Title Text 2]
 [VID2]:[https://video2.com/vid.mp4]
 [IMG]:[https://pic2.com/pic.png]
 
+[TITLE3]:[Title Text 3]
 [VID3]:[https://video3.com/vid.mp4]
 [IMG]:[https://pic3.com/pic.png]
 
+[TITLE4]:[Title Text 4]
 [VID4]:[https://video4.com/vid.mp4]
 [IMG]:[https://pic4.com/pic.png]
 
+[TITLE5]:[Title Text 5]
 [VID5]:[https://video5.com/vid.mp4]
 [IMG]:[https://pic5.com/pic.png]
